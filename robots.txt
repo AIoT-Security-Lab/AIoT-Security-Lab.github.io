@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://aiot-security-lab.github.io/AIoT-Security-Lab/sitemap.xml
