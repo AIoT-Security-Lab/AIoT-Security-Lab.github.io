@@ -5,6 +5,6 @@
 
   # AIoT-Security-Lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[aiot-security-lab.github.io/AIoT-Security-Lab](https://aiot-security-lab.github.io/AIoT-Security-Lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
