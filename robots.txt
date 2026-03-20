@@ -1,1 +1,1 @@
-Sitemap: https://aiot-security-lab.github.io/AIoT-Security-Lab/sitemap.xml
+Sitemap: https://aiot-security-lab.github.io/sitemap.xml
